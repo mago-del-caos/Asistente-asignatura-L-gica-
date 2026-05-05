@@ -1,1 +1,2 @@
-# Asistente-asignatura-L-gica-
+# Juventus
+IA personal del instituto juventud
